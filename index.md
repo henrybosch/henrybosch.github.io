@@ -1,3 +1,13 @@
-Hey, I'm Henry! 
+---
+title: "About Me"
+layout: single
+author_profile: true
+classes: wide
+---
 
--- Website Under Construction --
+Hi!
+I'm an aspiring mathematical geometer and PhD student at Stanford.
+
+## The site
+This site is powered by [Jekyll](https://jekyllrb.com/), [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/), [{% katex %}\KaTeX{% endkatex %}](https://katex.org/), and [Github Pages](https://pages.github.com/). 
+If you're interested, you can see the source for the entire setup [here](https://github.com/henrybosch/henrybosch.github.io).
