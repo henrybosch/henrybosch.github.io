@@ -1,9 +1,3 @@
----
-title: "About Me"
-layout: single
-author_profile: true
-classes: wide
----
 
 Hi!
 I'm an aspiring mathematical geometer and PhD student at Stanford.
