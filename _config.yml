@@ -24,9 +24,21 @@ github_username:  henrybosch
 
 # Build settings
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
 theme: minima
 plugins:
   - jekyll-feed
+
+# Theme settings
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# Minima specific settings
+minima:
+  date_format: "%b %-d, %Y"
+  # social links
+  # twitter_username: jekyllrbd
+  # github_username:  jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
