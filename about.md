@@ -8,7 +8,7 @@ Hey!
 
 I'm Henry, and I'm a PhD Student in Mathematics at Stanford. 
 
-This site is a place where I can express myself. Some of that expression will be mathematical, but not all. I (fortunately or unfortunately?) have a lot of interests!
+This site is a place where I can express myself. Some of that expression will be mathematical, but not all. Hope you enjoy!
 
 
 
