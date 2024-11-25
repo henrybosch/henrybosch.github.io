@@ -6,5 +6,3 @@ layout: home
 ---
 
 Hey, its Henry! I'm a Math PhD Student at Stanford. 
-
-This website is currently empty. Check back soon!
