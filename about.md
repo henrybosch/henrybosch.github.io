@@ -6,7 +6,7 @@ permalink: /about/
 
 Hey!
 
-I'm Henry, and I'm a PhD Student in Mathematics at Stanford. 
+I'm Henry, and I'm a PhD Candidate in Mathematics at Stanford. 
 
 
 

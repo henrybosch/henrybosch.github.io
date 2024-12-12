@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Hey, its Henry! I'm a Math PhD Student at Stanford. 
+Hey, its Henry! I'm a PhD Candidate in Pure Mathematics at Stanford. 
