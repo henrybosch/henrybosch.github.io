@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hey!
+I'm Henry, and I'm a PhD Candidate in pure Mathematics at Stanford. 
 
-I'm Henry, and I'm a PhD Candidate in Mathematics at Stanford. 
+I'm interested in both geometry and computation. Stay tuned for more!
 
 
 
