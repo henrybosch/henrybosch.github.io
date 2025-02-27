@@ -5,8 +5,6 @@ date:   2024-11-23 23:22:26 -0800
 categories: expository
 ---
 
-## Introduction
-
 In this post I will reflect on what (little) I know about implicit generalization, and discuss future directions. Ultimately the goal is to show that the reason that deep networks generalize well, even without convergence, is that they are biased to learn simple functions, ultimately by their compute-limited nature. 
 
 While it is difficult to show asymptotic results, it may be possible to show non-asymptotic results in a complexity-theoretic framework. For this reason, we will start by reviewing some complexity-theoretic concepts. '
