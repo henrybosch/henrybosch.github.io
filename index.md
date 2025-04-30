@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Hi, I'm Henry. I'm a PhD Candidate in Pure Mathematics at Stanford, but I'm currently on leave.
+Hi, I'm Henry. I'm a PhD Candidate in Pure Mathematics at Stanford, but I'm currently on leave to work at [Etched](https://www.etched.com).
