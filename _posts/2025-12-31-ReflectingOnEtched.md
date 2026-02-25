@@ -19,7 +19,7 @@ After learning and project-doing for a whole year, I'm pretty proud of my progre
 
 What's next?
 
-I think my greatest worry as of now is that I am not publishing any work. My career seems like it is a standstill, although my growth is not. That's why I would like to engage in efforts which can lead to publications. Both Stanford University and various research fellowships seem like they could be a great match at this point.
+I think my greatest worry as of now is that I am not publishing any work. That's why I would like to engage in efforts which can lead to publications. Both Stanford University and various research fellowships seem like they could be a great match at this point.
 
 But first! I have a mathematics paper that I need to write. From my days studying geometric measure theory under Otis Chodosh, I seem to have a result which is deemed interesting by the geometric analysis community, which apparently solves a problem asked by Gromov. 
 
