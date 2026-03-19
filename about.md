@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I'm Henry, and I'm a PhD Candidate in pure Mathematics at Stanford, currently on leave to work at [Etched](https://www.etched.com).
+I'm Henry, and I'm a PhD Candidate in pure Mathematics at Stanford.
 
-I'm interested in both geometry and computation. 
+I'm interested in both geometry and computation. Geometrically, I have enjoyed thinking about stationary varifolds and curvature conditions. Computationally, I have enjoyed thinking about LLM inference, formal verification, and multimodal reasoning / understanding.
 
 
 
