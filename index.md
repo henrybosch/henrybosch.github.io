@@ -5,4 +5,5 @@
 layout: home
 ---
 
-Hi, I'm Henry. I'm a PhD Candidate in Pure Mathematics at Stanford.
+Hi, I'm Henry. I'm a [PhD Candidate in Mathematics](https://web.stanford.edu/~hbosch/) at Stanford.
+

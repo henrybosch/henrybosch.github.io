@@ -7,3 +7,5 @@ permalink: /socials/
 [X](https://x.com/HenryJamesBosch)
 
 [Linkedin](https://www.linkedin.com/in/henry-bosch-6a2393149/)
+
+[Academic Webpage](https://web.stanford.edu/~hbosch/)
